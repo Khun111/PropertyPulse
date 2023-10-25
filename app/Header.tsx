@@ -6,7 +6,7 @@ const NavBar = () => {
         
             <nav className="bg-[#1D4734] flex justify-between px-3 w-full mb-6">
                 <div className="flex-auto w-1/12">
-                    LiveInvest
+                    PropertyPulse
                 </div>
                 <nav className="inline-flex flex-auto border-2 py-2 rounded-xl w-2/6 justify-around bg-[#E6E8EE] text-[#050505] ">
                     <p>Home</p>
